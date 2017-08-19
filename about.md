@@ -11,10 +11,10 @@ I've been doing iOS and Mac stuff for a few years now, and this is still what I 
 
 Currently working at an awesome startup with some very [clever folks](https://www.light.house).
 
-## Stuff I do
+## Stuff I do / have done lots of in the past
 
-* **iOS / Mac** - `Swift` / `Objective C` / `Pretty much everything on iOS` / 'Cocoa'
-* **Web** - `HTML` / `CSS` / `JS`
+* **iOS / Mac** - `Swift` / `Objective C` / `Pretty much everything on iOS` / `Cocoa`
+* **Web** - `HTML` / `CSS` / `JS` / `Meteor` / `Ruby on Rails`
 * **Scripting** - `Ruby` / `Python` / `Perl` / `Shell` 
 * **Other** - `C++` / `C` / `+ a bunch of other stuff I can't be bothered to write down.`
     
