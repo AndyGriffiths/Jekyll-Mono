@@ -4,52 +4,48 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+I've been doing iOS and Mac stuff for a few years now, and this is still what I do for a living.  I've also been known to build the odd web application using things like Meteor and Ruby on rails.  In a previous life I worked in investment banks using things like C++, C, Bash, Perl and some Java.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+## Current role
 
-## Education
+Currently working at an awesome startup with some very [clever folks](https://www.light.house).
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+## Stuff I do
 
-## Roles
-
-Founder, ABC Organisation
-
-## Skills
-
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **iOS / Mac** - `Swift` / `Objective C` / `Pretty much everything on iOS` / 'Cocoa'
+* **Web** - `HTML` / `CSS` / `JS`
+* **Scripting** - `Ruby` / `Python` / `Perl` / `Shell` 
+* **Other** - `C++` / `C` / `+ a bunch of other stuff I can't be bothered to write down.`
     
     
-## Achievements
+## Things I've done
 
 
-* [**This is my first achievement**](#) 
+* [**Lighthouse mobile App**](http://www.light.house) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   A fairly complicated app involving h264, live video streaming, live audio (although I didn't do much of that), and all the usual iOS stuff such as geofences, notifications, UIKit.  Written in Swift.  Not yet in the App Store.
 
 ***
 
-* [**This is my second achievement**](#) 
+* [**Air New Zealand Mobile App**](https://www.airnewzealand.co.nz/air-nz-app) 
 
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   A very well used iOS app written in Objective C allowing you to check your flights and airpoints status.  Highlight include a coffee ordering component which allows to order your coffee in th AIRNZ lounge, with some nice animations using CAShapeLayers.  Lots of UICollectionViews used, mostly with custom layouts.
 
 ***
 
-* [**This is my third achievement**](#) 
+* [**Sharper Notes**](https://www.sharpernotes.com) 
 
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+   Sharper Notes is my guitar / music practice website, which I use to organise my own guitar practice time,  A work in progress.
 
+* **yLIP**
+
+   yLIP was a Mac desktop app which allowed to easily create and publish iOS mobile apps just by using the gui provided.  I think it was pretty cool, but I didn't make enough money out of it and had to kill it. Some tutorial videos still survive [here](https://www.youtube.com/watch?v=iOTnfbS7-60) and [here](https://www.youtube.com/watch?v=RBu4xkdMA5Y).
+
+* **Apps**
+
+  Quite a few other iOS, some written for my own company, some for other people.  All historical now though.
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[andy@andygriffiths.me](mailto:andy@andygriffiths.me)
