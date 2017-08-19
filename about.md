@@ -19,7 +19,7 @@ Currently working at an awesome startup with some very [clever folks](https://ww
 * **Other** - `C++` / `C` / `+ a bunch of other stuff I can't be bothered to write down.`
     
     
-## Things I've done
+## Some of the things I've done
 
 
 * [**Lighthouse mobile App**](http://www.light.house) 
@@ -30,7 +30,7 @@ Currently working at an awesome startup with some very [clever folks](https://ww
 
 * [**Air New Zealand Mobile App**](https://www.airnewzealand.co.nz/air-nz-app) 
 
-   A very well used iOS app written in Objective C allowing you to check your flights and airpoints status.  Highlight include a coffee ordering component which allows to order your coffee in th AIRNZ lounge, with some nice animations using CAShapeLayers.  Lots of UICollectionViews used, mostly with custom layouts.
+   A very well used iOS app written in Objective C allowing you to check your flights and airpoints status.  Highlight include a coffee ordering component which allows to order your coffee in the AIRNZ lounge, with some nice animations using CAShapeLayers.  Lots of UICollectionViews used, mostly with custom layouts.
 
 ***
 
@@ -40,11 +40,11 @@ Currently working at an awesome startup with some very [clever folks](https://ww
 
 * **yLIP**
 
-   yLIP was a Mac desktop app which allowed to easily create and publish iOS mobile apps just by using the gui provided.  I think it was pretty cool, but I didn't make enough money out of it and had to kill it. Some tutorial videos still survive [here](https://www.youtube.com/watch?v=iOTnfbS7-60) and [here](https://www.youtube.com/watch?v=RBu4xkdMA5Y).
+   yLIP was a Mac desktop app which allowed to easily create and publish iOS mobile apps just by using the gui provided.  I think it was pretty cool, but I didn't make enough money out of it and had to kill it. Some tutorial videos still survive [here](https://www.youtube.com/watch?v=iOTnfbS7-60) and [here](https://www.youtube.com/watch?v=RBu4xkdMA5Y).  I wrote this all by myself, and it turned out to be quit a big job!
 
 * **Apps**
 
-  Quite a few other iOS, some written for my own company, some for other people.  All historical now though.
+  Quite a few other iOS apps, some written for my own company, some for other people.  All historical now though.
 
 ## Contact me
 
